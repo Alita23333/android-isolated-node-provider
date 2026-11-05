@@ -1,0 +1,212 @@
+[
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/execution/IsolatedProviderProcess.java",
+    "publishedPath": "process/src/main/java/dev/alita/androidagent/execution/IsolatedProviderProcess.java",
+    "originalSha256": "9da8085f893152633e7985d82b0a3600bb332664819359e7a17a1eef86a1fa60",
+    "publishedSha256": "9da8085f893152633e7985d82b0a3600bb332664819359e7a17a1eef86a1fa60",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/test/java/dev/alita/androidagent/IsolatedProviderProcessTest.java",
+    "publishedPath": "process/src/test/java/dev/alita/androidagent/IsolatedProviderProcessTest.java",
+    "originalSha256": "b62af527484c9dc836c02122fec5ad3a0a345fa9882cc9cd3d47ddab14972896",
+    "publishedSha256": "b62af527484c9dc836c02122fec5ad3a0a345fa9882cc9cd3d47ddab14972896",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeEndpoint.java",
+    "publishedPath": "reference/product/app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeEndpoint.java",
+    "originalSha256": "ee97f4a894af78387713acc8247b50dd8f5aad4f4d0dd1a13ef598cb1ce57a8d",
+    "publishedSha256": "ee97f4a894af78387713acc8247b50dd8f5aad4f4d0dd1a13ef598cb1ce57a8d",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeRuntime.java",
+    "publishedPath": "reference/product/app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeRuntime.java",
+    "originalSha256": "10f0347e84791720372d6ea84f3080b5717d4c0f42073ec8f5c3b64c3ce2df60",
+    "publishedSha256": "10f0347e84791720372d6ea84f3080b5717d4c0f42073ec8f5c3b64c3ce2df60",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeService.java",
+    "publishedPath": "reference/product/app/src/main/java/dev/alita/androidagent/execution/isolation/IsolatedNodeService.java",
+    "originalSha256": "6caa278055bcfebe9d05cc6882e98755478b6bd9d07cd559eae296ca37bf78d2",
+    "publishedSha256": "6caa278055bcfebe9d05cc6882e98755478b6bd9d07cd559eae296ca37bf78d2",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/native/isolated_node.c",
+    "publishedPath": "native/isolated_node.c",
+    "originalSha256": "31765dce56fa565072f6b589e57aa02335fc074cd6b1425f5c6d130f5e3310a1",
+    "publishedSha256": "31765dce56fa565072f6b589e57aa02335fc074cd6b1425f5c6d130f5e3310a1",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "experiments/provider-isolation/build.gradle.kts",
+    "publishedPath": "probe/build.gradle.kts",
+    "originalSha256": "cbdd63c2da8419ebbedc42ffacc41285984701d013144a1531d5bba394d8ff85",
+    "publishedSha256": "cbdd63c2da8419ebbedc42ffacc41285984701d013144a1531d5bba394d8ff85",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "experiments/provider-isolation/gradle.properties",
+    "publishedPath": "probe/gradle.properties",
+    "originalSha256": "7acc7d31ba7ee51e4d5cf1b1c89e2778386a795e56d75435eee1498e69dcb36a",
+    "publishedSha256": "7acc7d31ba7ee51e4d5cf1b1c89e2778386a795e56d75435eee1498e69dcb36a",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "experiments/provider-isolation/README.md",
+    "publishedPath": "probe/README.md",
+    "originalSha256": "7288ad2aed7ded792d2e33135d72588437dedf555a1a0ce8ef0000784ef87543",
+    "publishedSha256": "0b1db6499ba939a05e963ddc8725a557461777bd294c5b56de74559d385b9752",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "experiments/provider-isolation/settings.gradle.kts",
+    "publishedPath": "probe/settings.gradle.kts",
+    "originalSha256": "269f6ccc020985e74b78e4b7ea7acebfbc72bbed3dfe3ad79142c0e164b25f82",
+    "publishedSha256": "269f6ccc020985e74b78e4b7ea7acebfbc72bbed3dfe3ad79142c0e164b25f82",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "experiments/provider-isolation/.gradle/8.9/gc.properties",
+    "publishedPath": "probe/.gradle/8.9/gc.properties",
+    "originalSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "publishedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "experiments/provider-isolation/.gradle/buildOutputCleanup/cache.properties",
+    "publishedPath": "probe/.gradle/buildOutputCleanup/cache.properties",
+    "originalSha256": "3deffb6db0e74e3e5bdbf19aedd9325176f8ed3acda76bc7e829891cbda8ec13",
+    "publishedSha256": "3deffb6db0e74e3e5bdbf19aedd9325176f8ed3acda76bc7e829891cbda8ec13",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "experiments/provider-isolation/.gradle/vcs-1/gc.properties",
+    "publishedPath": "probe/.gradle/vcs-1/gc.properties",
+    "originalSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "publishedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "experiments/provider-isolation/.gradle/8.9/dependencies-accessors/gc.properties",
+    "publishedPath": "probe/.gradle/8.9/dependencies-accessors/gc.properties",
+    "originalSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "publishedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "experiments/provider-isolation/src/main/AndroidManifest.xml",
+    "publishedPath": "probe/src/main/AndroidManifest.xml",
+    "originalSha256": "0a1334b8ba9e4ffecfdf73727cf43e68defa3bfcc4d4a821801cd3cb8b5963d6",
+    "publishedSha256": "0a1334b8ba9e4ffecfdf73727cf43e68defa3bfcc4d4a821801cd3cb8b5963d6",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "experiments/provider-isolation/src/main/native/node_probe.c",
+    "publishedPath": "probe/src/main/native/node_probe.c",
+    "originalSha256": "47a6f8f50ffee955380c49c01f0b70b1a5c1ca39c5691e0d2f1830176fe1c46d",
+    "publishedSha256": "47a6f8f50ffee955380c49c01f0b70b1a5c1ca39c5691e0d2f1830176fe1c46d",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "experiments/provider-isolation/src/main/java/dev/alita/providerprobe/BinderNodeEndpoint.java",
+    "publishedPath": "probe/src/main/java/dev/alita/providerprobe/BinderNodeEndpoint.java",
+    "originalSha256": "5e0a78b088b0abf29a410ad717798d36f297ac6b4b259e2918facf97c62ca84c",
+    "publishedSha256": "5e0a78b088b0abf29a410ad717798d36f297ac6b4b259e2918facf97c62ca84c",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "experiments/provider-isolation/src/main/java/dev/alita/providerprobe/IsolatedNodeService.java",
+    "publishedPath": "probe/src/main/java/dev/alita/providerprobe/IsolatedNodeService.java",
+    "originalSha256": "0d89c207c91794b491c99520bc03e6db6ffc09edf71ddaf2046d5ca2de695f14",
+    "publishedSha256": "0d89c207c91794b491c99520bc03e6db6ffc09edf71ddaf2046d5ca2de695f14",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "experiments/provider-isolation/src/main/java/dev/alita/providerprobe/ProbeActivity.java",
+    "publishedPath": "probe/src/main/java/dev/alita/providerprobe/ProbeActivity.java",
+    "originalSha256": "90dbef392bb046103fa565e7af655438ff75e48c404e8a0f601d44078f58e12e",
+    "publishedSha256": "de784d3c43f703bf178eef4810f36554869d44f0e40d124c4457a28447d53bd7",
+    "change": "UTF-8/BOM normalization and/or documented privacy redaction"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/tools/JsonRpcStdioProvider.kt",
+    "publishedPath": "reference/host/JsonRpcStdioProvider.kt",
+    "originalSha256": "0b1af1c701cf0dfb3c2e34745d867633bf333eca5c80d9232aeade5c284f256e",
+    "publishedSha256": "0b1af1c701cf0dfb3c2e34745d867633bf333eca5c80d9232aeade5c284f256e",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/tools/LocalToolProtocol.kt",
+    "publishedPath": "reference/host/LocalToolProtocol.kt",
+    "originalSha256": "fcaf7c30edb3123f52390a984c3233932f9c28daacc91036789b8ee3110f85a3",
+    "publishedSha256": "fcaf7c30edb3123f52390a984c3233932f9c28daacc91036789b8ee3110f85a3",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/tools/LocalProviderCatalog.kt",
+    "publishedPath": "reference/host/LocalProviderCatalog.kt",
+    "originalSha256": "ad7c50e670d4ca7f140fdc4dd7b0f63a0a14b5f03d051b98c4b0c92f05ddef20",
+    "publishedSha256": "ad7c50e670d4ca7f140fdc4dd7b0f63a0a14b5f03d051b98c4b0c92f05ddef20",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/tools/PinnedIsolatedProvider.kt",
+    "publishedPath": "reference/host/PinnedIsolatedProvider.kt",
+    "originalSha256": "45ac70bfbb5e9bb134a0a6d127da2718bba7d3a1d66f10eb64538b1cb7c90180",
+    "publishedSha256": "45ac70bfbb5e9bb134a0a6d127da2718bba7d3a1d66f10eb64538b1cb7c90180",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/zcode/adapter/AndroidToolContracts.kt",
+    "publishedPath": "reference/host/AndroidToolContracts.kt",
+    "originalSha256": "890661a1d6d8569742667cc9f492fce72758826965caf54f598c09c5d4dc5b5d",
+    "publishedSha256": "890661a1d6d8569742667cc9f492fce72758826965caf54f598c09c5d4dc5b5d",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/AgentApplication.kt",
+    "publishedPath": "reference/product/AgentApplication.kt",
+    "originalSha256": "640d46a3c58b2c9347b74421a2a376afff8a1b407ab018fa4e53ee1cf7ab6e39",
+    "publishedSha256": "640d46a3c58b2c9347b74421a2a376afff8a1b407ab018fa4e53ee1cf7ab6e39",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "docs/local-tool-protocol.md",
+    "publishedPath": "docs/local-tool-protocol-history.md",
+    "originalSha256": "bb6bb9a4017dd6266866379dc1d24856670b62c145022dd08c3330ddcdf6942c",
+    "publishedSha256": "bb6bb9a4017dd6266866379dc1d24856670b62c145022dd08c3330ddcdf6942c",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "examples/providers/device-info/provider.json",
+    "publishedPath": "examples/providers/device-info/provider.json",
+    "originalSha256": "bf6dbde1bb28b6994b9dec3134b0fd310fba0ec6117d8785457f976dac081a48",
+    "publishedSha256": "bf6dbde1bb28b6994b9dec3134b0fd310fba0ec6117d8785457f976dac081a48",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "examples/providers/device-info/provider.sh",
+    "publishedPath": "examples/providers/device-info/provider.sh",
+    "originalSha256": "e38947df70afa7c49d87c36718358f15cb43d55013d33fa2951fcd4399786648",
+    "publishedSha256": "e38947df70afa7c49d87c36718358f15cb43d55013d33fa2951fcd4399786648",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/prepare-product-isolation.py",
+    "publishedPath": "reference/preparation/prepare-product-isolation.py",
+    "originalSha256": "52b793ceeed81eca377e054f24cd56ac167e6403f4c3f81a80eed80e8cc48d70",
+    "publishedSha256": "52b793ceeed81eca377e054f24cd56ac167e6403f4c3f81a80eed80e8cc48d70",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase9/prepare-provider-isolation-probe.py",
+    "publishedPath": "reference/preparation/prepare-provider-isolation-probe.py",
+    "originalSha256": "217562b7b5f1432ad796304da6238f9c012434e93608b27747c8d78788229a82",
+    "publishedSha256": "217562b7b5f1432ad796304da6238f9c012434e93608b27747c8d78788229a82",
+    "change": "byte-identical"
+  }
+]

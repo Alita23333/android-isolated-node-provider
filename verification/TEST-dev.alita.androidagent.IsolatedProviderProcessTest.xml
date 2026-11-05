@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.alita.androidagent.IsolatedProviderProcessTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2026-11-05T00:22:30" hostname="ROGSTRIXG634" time="0.059">
+  <properties/>
+  <testcase name="interruptedStartupStopsTransport" classname="dev.alita.androidagent.IsolatedProviderProcessTest" time="0.003"/>
+  <testcase name="cancellationDuringStartupStopsBeforeDeadlineAndRejectsLateReady" classname="dev.alita.androidagent.IsolatedProviderProcessTest" time="0.019"/>
+  <testcase name="preCancelledLaunchDoesNotBindAndReleasesResources" classname="dev.alita.androidagent.IsolatedProviderProcessTest" time="0.001"/>
+  <testcase name="cancelIsNotADeathAcknowledgementAndIsIdempotent" classname="dev.alita.androidagent.IsolatedProviderProcessTest" time="0.015"/>
+  <testcase name="startupTimeoutRequestsStopAndLateReadyCannotRevive" classname="dev.alita.androidagent.IsolatedProviderProcessTest" time="0.017"/>
+  <testcase name="invalidDeadlineDoesNotStartTransport" classname="dev.alita.androidagent.IsolatedProviderProcessTest" time="0.0"/>
+  <testcase name="releaseFailureCannotHideConfirmedDeath" classname="dev.alita.androidagent.IsolatedProviderProcessTest" time="0.0"/>
+  <testcase name="nativeFailureNeverReturnsUsableProcess" classname="dev.alita.androidagent.IsolatedProviderProcessTest" time="0.0"/>
+  <testcase name="streamsAreExactAndOutputCanDrainAfterExit" classname="dev.alita.androidagent.IsolatedProviderProcessTest" time="0.001"/>
+  <testcase name="readyAndCancellationInSameCallbackCannotReturnProcess" classname="dev.alita.androidagent.IsolatedProviderProcessTest" time="0.001"/>
+  <testcase name="synchronousStartFailureRequestsStop" classname="dev.alita.androidagent.IsolatedProviderProcessTest" time="0.0"/>
+  <testcase name="earlyDeathCannotBeRevivedByReady" classname="dev.alita.androidagent.IsolatedProviderProcessTest" time="0.0"/>
+  <testcase name="waitersCompleteOnlyOnActualDeath" classname="dev.alita.androidagent.IsolatedProviderProcessTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
