@@ -70,34 +70,6 @@
     "change": "byte-identical"
   },
   {
-    "originalPath": "experiments/provider-isolation/.gradle/8.9/gc.properties",
-    "publishedPath": "probe/.gradle/8.9/gc.properties",
-    "originalSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "publishedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "change": "byte-identical"
-  },
-  {
-    "originalPath": "experiments/provider-isolation/.gradle/buildOutputCleanup/cache.properties",
-    "publishedPath": "probe/.gradle/buildOutputCleanup/cache.properties",
-    "originalSha256": "3deffb6db0e74e3e5bdbf19aedd9325176f8ed3acda76bc7e829891cbda8ec13",
-    "publishedSha256": "3deffb6db0e74e3e5bdbf19aedd9325176f8ed3acda76bc7e829891cbda8ec13",
-    "change": "byte-identical"
-  },
-  {
-    "originalPath": "experiments/provider-isolation/.gradle/vcs-1/gc.properties",
-    "publishedPath": "probe/.gradle/vcs-1/gc.properties",
-    "originalSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "publishedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "change": "byte-identical"
-  },
-  {
-    "originalPath": "experiments/provider-isolation/.gradle/8.9/dependencies-accessors/gc.properties",
-    "publishedPath": "probe/.gradle/8.9/dependencies-accessors/gc.properties",
-    "originalSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "publishedSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "change": "byte-identical"
-  },
-  {
     "originalPath": "experiments/provider-isolation/src/main/AndroidManifest.xml",
     "publishedPath": "probe/src/main/AndroidManifest.xml",
     "originalSha256": "0a1334b8ba9e4ffecfdf73727cf43e68defa3bfcc4d4a821801cd3cb8b5963d6",
